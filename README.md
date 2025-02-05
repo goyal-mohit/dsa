@@ -2,4 +2,4 @@
 Data Strucure Algorithms
 
 This repository will maintain DSA
-Concepts, Problems and applications.
+Concepts, Problems and algorithms.
